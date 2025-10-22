@@ -14,11 +14,8 @@
   <a href="https://leetcode.com/u/mohitswarnkar13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
-  <a href="https://codeforces.com/profile/Mohit%20Swarnkar" target="_blank">
+  <a href="https://codeforces.com/profile/Mohit_Swarnkar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
-  </a>
-  <a href="https://github.com/Mohit25022005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
 
