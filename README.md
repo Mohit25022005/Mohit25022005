@@ -22,8 +22,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohit25022005.Mohit25022005&left_color=gray&right_color=blue"  />
+  <!-- Unique Visitor Counter -->
+  <img src="https://hits.sh/github.com/Mohit25022005.svg?label=Unique%20Visitors&color=blue&logo=github" alt="Unique visitor count badge" />
 </div>
+
 
 ###
 
