@@ -1,130 +1,141 @@
 <div align="center">
-  <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=140&section=header&text=Mohit%20Swarnkar&fontSize=40&fontColor=E2E8F0&fontAlignY=45&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20AI%20Systems&descAlignY=70&descSize=16" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=VIT+Vellore+%7C+CGPA+8.78+%7C+Graduating+2027;Open+to+SDE+%7C+Backend+%7C+DevOps+roles;go-gitea+contributor+%7C+truck-hai+builder" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-swarnkar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitswarnkar13@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohitswarnkar13)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mohit_Swarnkar)
+
 </div>
 
-###
+---
+
+## About
+
+B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027**
+Open to **SDE / Backend / DevOps** roles
+
+- Backend Intern @ **Aarvasa** — auth, API optimization (3s→300ms), Razorpay integration, RAG chatbot
+- Industrial Trainee @ **NTPC Limited** — NLP duplicate detection, safety management system
+- Open source contributor @ **go-gitea/gitea** — fixing production API bugs
+- Building backend services @ **truck-hai** org
+
+---
+
+## Open Source Contributions
+
+| Repo | Impact | PR |
+|------|--------|----|
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Fix 500 error in compare API across fork repos | [#37185](https://github.com/go-gitea/gitea/pull/37185) |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Fix missing base branch in PR commits API | [#37193](https://github.com/go-gitea/gitea/pull/37193) |
+
+---
+
+## Projects
+
+**[simplebank](https://github.com/Mohit25022005/simplebank)**
+> Production-grade banking backend in Go with gRPC + REST via gRPC-Gateway, ACID-compliant PostgreSQL, Redis async workers, deployed on AWS EKS with GitHub Actions CI/CD
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+**[AI-Chatbot-Ingres](https://github.com/Mohit25022005/AI_IDS)**
+> RAG pipeline with OpenAI embeddings + FAISS vector store + Falcon-7B LLM. 10x faster query retrieval. JIRA ticketing microservice.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+**Kafka Ride Tracker**
+> Real-time ride tracking using Apache Kafka for high-throughput event streaming. Producer/consumer architecture with Dockerized local Kafka cluster.
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+**VProfile DevOps Pipeline**
+> End-to-end CI/CD pipeline using Jenkins, infrastructure provisioned with Terraform, containerized and orchestrated via Kubernetes + Ansible.
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+---
+
+## Stack
+
+**Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Backend**
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+**AI / ML**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+---
+
+## Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohit-swarnkar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
-  </a>
-  <a href="mailto:mohitswarnkar13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://leetcode.com/u/mohitswarnkar13" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/Mohit_Swarnkar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <!-- Unique Visitor Counter -->
-  <img src="https://hits.sh/github.com/Mohit25022005.svg?label=Unique%20Visitors&color=blue&logo=github" alt="Unique visitor count badge" />
-</div>
-
-
-###
-
-<h1 align="center">Hey there 👋, I'm Mohit Swarnkar</h1>
-<h3 align="center">🚀 Backend Developer | 🧠 DevOps & Cloud Enthusiast | 🤖 AI Innovator</h3>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">
-🎓 I'm an Information Technology student at <b>Vellore Institute of Technology (VIT)</b> with a CGPA of 8.76.<br><br>
-💼 Currently building cloud-native and AI-powered applications as a <b>Backend Developer Intern at Aarvasa</b>.<br><br>
-🧠 I’m passionate about <b>Backend Engineering, DevOps Automation, and LLM-driven systems</b>.<br><br>
-🌱 Learning <b>Kubernetes, Terraform, AWS, Jenkins, Ansible</b> and <b>RAG pipelines</b>.<br><br>
-⚡ In my free time, I explore open-source DevOps tools, solve DSA problems on LeetCode, and contribute to backend projects.
-</p>
-
----
-
-<h3 align="left">🛠 Tech Stack</h3>
-
-<div align="left">
-
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> &nbsp;
-
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" /> &nbsp;
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo" /> &nbsp;
-
-<!-- DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" /> &nbsp;
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" height="40" alt="cloudinary logo" />
-</div>
-
----
-
-<h3 align="left">💼 Experience Highlights</h3>
-
-- 🔧 **Backend Developer Intern – Aarvasa** *(May 2025 – Sep 2025)*  
-  - Built secure authentication (JWT, Google OAuth, OTP)  
-  - Optimized APIs (3s → 300ms) using **MongoDB + Redis**  
-  - Integrated **AI Chatbot** using **FastAPI** + **RAG**, deployed via **Docker on Render**
-
-- 🏭 **Industrial Trainee – NTPC Limited** *(May 2025 – July 2025)*  
-  - Developed **Safety Management System** for incident tracking  
-  - Implemented **NLP-powered duplicate detection** with **FastAPI & Sentence Transformers**
-
----
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-- 🤖 **AI-Chatbot-Ingres** – RAG-based chatbot using **FastAPI**, **OpenAI**, **FAISS**, and **Falcon-7B**  
-- 🏦 **Simple Bank Backend** – Built in **Go**, **gRPC**, **PostgreSQL**, **Redis**, deployed on **AWS EKS**  
-- ☁️ **VProfile Deployment** – Full **DevOps pipeline** using **Jenkins**, **Terraform**, **Kubernetes**, and **Ansible**
-
----
-
-<h3 align="left">📜 Certifications</h3>
-
-- 🪶 Oracle Cloud Infrastructure 2025 Certified **AI Foundations Associate**  
-- ☁️ Oracle Cloud Infrastructure 2025 Certified **Foundations Associate**
-
----
-
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit25022005&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mohit25022005&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit25022005&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=8" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mohit25022005&theme=github-dark-blue&hide_border=true&border_radius=8" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit25022005&layout=compact&theme=dark&hide_border=false&border_radius=5" height="160" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit25022005&theme=react-dark&hide_border=true&area=true&color=378ADD&line=378ADD&point=ffffff" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit25022005&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=8" height="150"/>
 </div>
 
 ---
 
-<div align="center">
-  <i>“Striving to bridge Backend, DevOps, and AI — one scalable system at a time.”</i> 🚀
-</div>
+## Competitive Programming
+
+![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20solved-FFA116?style=flat&logo=leetcode&logoColor=black)
+![Rating](https://img.shields.io/badge/Contest%20Rating-1537-FFA116?style=flat&logo=leetcode&logoColor=black)
+![Hard](https://img.shields.io/badge/Hard-43-E24B4A?style=flat)
+![Medium](https://img.shields.io/badge/Medium-202-EF9F27?style=flat)
+
+---
+
