@@ -19,7 +19,7 @@
 B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027**
 Open to **SDE / Backend / DevOps** roles
 
-- Backend Intern @ **Aarvasa** — auth, API optimization (3s→300ms), Razorpay integration, RAG chatbot
+- Backend Intern @ **Aarvasa** — auth, API optimization, Razorpay integration, RAG chatbot
 - Industrial Trainee @ **NTPC Limited** — NLP duplicate detection, safety management system
 - Open source contributor @ **go-gitea/gitea** — fixing production API bugs
 - Building backend services @ **truck-hai** org
@@ -35,54 +35,10 @@ Open to **SDE / Backend / DevOps** roles
 
 ---
 
-## Projects
-
-**[simplebank](https://github.com/Mohit25022005/simplebank)**
-> Production-grade banking backend in Go with gRPC + REST via gRPC-Gateway, ACID-compliant PostgreSQL, Redis async workers, deployed on AWS EKS with GitHub Actions CI/CD
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-**[AI-Chatbot-Ingres](https://github.com/Mohit25022005/AI_IDS)**
-> RAG pipeline with OpenAI embeddings + FAISS vector store + Falcon-7B LLM. 10x faster query retrieval. JIRA ticketing microservice.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-**Kafka Ride Tracker**
-> Real-time ride tracking using Apache Kafka for high-throughput event streaming. Producer/consumer architecture with Dockerized local Kafka cluster.
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-**VProfile DevOps Pipeline**
-> End-to-end CI/CD pipeline using Jenkins, infrastructure provisioned with Terraform, containerized and orchestrated via Kubernetes + Ansible.
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
----
-
 ## Stack
 
 **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -103,13 +59,8 @@ Open to **SDE / Backend / DevOps** roles
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-**AI / ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
