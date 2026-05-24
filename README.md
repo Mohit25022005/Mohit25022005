@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=140&section=header&text=Mohit%20Swarnkar&fontSize=40&fontColor=E2E8F0&fontAlignY=45&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20AI%20Systems&descAlignY=70&descSize=16" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=VIT+Vellore+%7C+CGPA+8.78+%7C+Graduating+2027;Open+to+SDE+%7C+Backend+%7C+DevOps+roles;go-gitea+contributor+%7C+truck-hai+builder" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +19,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027**
 Open to **SDE / Backend / DevOps** roles
 
 - Building backend services @ **truck-hai** org
-- - Open source contributor @ **go-gitea/gitea** — fixing production API bugs
+- Open source contributor @ **go-gitea/gitea** — fixing production API bugs
 - Backend Intern @ **Aarvasa** — auth, API optimization, Razorpay integration, RAG chatbot
 - Industrial Trainee @ **NTPC Limited** — NLP duplicate detection, safety management system
 
