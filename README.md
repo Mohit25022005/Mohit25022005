@@ -19,10 +19,11 @@
 B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027**
 Open to **SDE / Backend / DevOps** roles
 
+- Building backend services @ **truck-hai** org
+- - Open source contributor @ **go-gitea/gitea** — fixing production API bugs
 - Backend Intern @ **Aarvasa** — auth, API optimization, Razorpay integration, RAG chatbot
 - Industrial Trainee @ **NTPC Limited** — NLP duplicate detection, safety management system
-- Open source contributor @ **go-gitea/gitea** — fixing production API bugs
-- Building backend services @ **truck-hai** org
+
 
 ---
 
